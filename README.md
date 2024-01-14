@@ -1,6 +1,9 @@
 # 🇺🇦 Mykola Maslakay
 
 **`Front-end Developer`**
+<a href="https://www.linkedin.com/in/mykola-maslakai-28318027a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 I'm an ambitious and goal-oriented junior Front End Developer. My project experience includes both team and individual projects utilizing React,React-Native, JavaScript, Node.JS. I'm attentive to details and have good analytical skills what allows me to learn new information quickly. Beyond coding, I am constantly improving myself by learning new technologies and improving my skillset. 
 
