@@ -1,4 +1,4 @@
-# 🇺🇦 Mykola Maslakay
+# 🇺🇦 Mykola Maslakai
 
 **`Front-end Developer`**
 
