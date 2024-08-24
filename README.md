@@ -25,7 +25,7 @@ I'm an ambitious and goal-oriented Front-End Developer. My project experience in
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="padding-right:10px;" />
 <img align="left" alt="Node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right:10px;" />
-<img align="left" alt="Nest" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-arbnr&psig=AOvVaw2Gj4gvm1bfca9zmTNFDGOJ&ust=1724609945979000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiCiuuejogDFQAAAAAdAAAAABAH" style="padding-right:10px;" />
+<img align="left" alt="Nest" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FNestJS&psig=AOvVaw3gC5jnNxscNRv_hOCK-qOK&ust=1724610215519000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOia2-2fjogDFQAAAAAdAAAAABAE" style="padding-right:10px;" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next.Js" width="30px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
